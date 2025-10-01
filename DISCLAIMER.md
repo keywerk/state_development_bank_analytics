@@ -1,0 +1,4 @@
+
+# Disclaimer  
+
+This project utilizes financial data extracted from the publicly available annual reports of [L-Bank](https://www.l-bank.info/en/about-l-bank/publications/annual-reports/annual-reports.html?lang=en), a German state development bank. All rights to the underlying data remain with L-Bank. The data is provided on an “as-is” basis and is used solely for educational/non-commercial purposes. All analyses, interpretations, and conclusions contained herein are solely those of the author and do not reflect the views of L-Bank. This project is an independent work and is neither affiliated with nor endorsed by L-Bank.
