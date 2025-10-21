@@ -9,6 +9,7 @@ All changes to this project are documented in this file.
 - Interactive Excel dashboard in (`/dashboard`).
 - Exported reports in PDF/HTML (`/reports`).
 - VBA scripts used in automation in (`/vba_code`).
+- Python scripts used for analytics dashboard in (`/py_code`).
 - SQL schema and queries (`/sql`).
 - Example output visuals in (`/visualizations`).
 - Screenshots of project pages in (`/screenshots`).
