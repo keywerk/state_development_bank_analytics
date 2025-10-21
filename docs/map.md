@@ -38,6 +38,9 @@
 ├── vba_code/                                                       # VBA modules
 │   └── mod_Shock_Simulator.bas
 │
+├── py_code/                                                       # Python scripts
+│   └── analytics_dashboard.py
+│ 
 ├── sql/                                                            # SQL schema and queries
 │   ├── insert_data.sql
 │   ├── queries.sql
