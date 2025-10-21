@@ -19,6 +19,7 @@ This project analyzes financial data from the publicly available annual reports 
 - **dashboard**: Main Excel dashboard file with KPIs and interactive charts  
 - **reports**: Exported reports in PDF and HTML formats 
 - **vba_code**: Macro modules for automation
+- **py_code**: Python scripts for analytics dashboard
 - **sql**: schema and queries for the dataset
 - **visualizations**: Exported charts and tables  
 - **screenshots**: Dashboard and report previews  
