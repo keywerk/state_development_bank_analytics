@@ -8,3 +8,6 @@ bank_financials_dashboard_overview_2015_2024_report_files.htm linguist-detectabl
 
 *.sql linguist-detectable=true
 
+*.py linguist-detectable=true linguist-language=Text
+
+
