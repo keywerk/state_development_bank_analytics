@@ -1,13 +1,14 @@
 * text=auto
 
-bank_financials_dashboard_overview_2015_2024_report_files.htm linguist-detectable=false
-
 *.htm  linguist-detectable=false
 *.html linguist-detectable=false
 *.css  linguist-detectable=false
 
-*.sql linguist-detectable=true
+*.bas linguist-language=VBA
+*.cls linguist-language=VBA
+*.frm linguist-language=VBA
+*.vba linguist-language=VBA
 
-*.py linguist-detectable=true linguist-language=Text
+*.sql linguist-detectable=true linguist-language=SQL
 
-
+*.py linguist-detectable=true linguist-language=Python
