@@ -11,4 +11,5 @@
 
 *.sql linguist-detectable=true linguist-language=SQL
 
-*.py linguist-detectable=true linguist-language=Python
+py_code/** linguist-vendored
+py_code/analytics_dashboard.py -linguist-vendored linguist-language=Python linguist-detectable=true
